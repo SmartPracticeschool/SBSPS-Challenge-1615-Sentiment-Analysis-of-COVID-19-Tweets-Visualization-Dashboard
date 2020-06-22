@@ -73,6 +73,9 @@ worksheet = pd.read_excel("C:/Users/rosha/Desktop/covid19-tweets.xlsx")
 
 pd.to_datetime(worksheet['Time of Post']).dt.strftime("%d %b, %Y - %I:%M %p")
 
+#after this the data is preprocessed .
+
+
 
 
     
