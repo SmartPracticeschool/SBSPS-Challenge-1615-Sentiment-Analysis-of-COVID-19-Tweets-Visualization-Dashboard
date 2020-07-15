@@ -1,4 +1,4 @@
 # SBSPS-Challenge-1615-Sentiment-Analysis-of-COVID-19-Tweets-Visualization-Dashboard
-
+Data Collection (Roshan).pptx - This file contains the powerpoint presentation for Data Annotation made by Roshan Dadlani.
+Data Preprocessing (Roshnee).pptx - This file contains the powerpoint presentation for Data Annotation made by Roshnee Matlani.
 Data Annotation (Dhiren).pptx - This file contains the powerpoint presentation for Data Annotation made by Dhiren Soneji.
-IBMHC ppt.pptx - This file contains the final powerpoint presentation of the project.
