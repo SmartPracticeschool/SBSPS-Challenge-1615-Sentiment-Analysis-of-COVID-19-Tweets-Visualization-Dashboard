@@ -3,3 +3,4 @@ Data Collection (Roshan).pptx - This file contains the powerpoint presentation f
 Data Preprocessing (Roshnee).pptx - This file contains the powerpoint presentation for Data Preprocessing made by Roshnee Matlani.
 Data Annotation (Dhiren).pptx - This file contains the powerpoint presentation for Data Annotation made by Dhiren Soneji.
 Data Visualization (Sharv).pptx-This file contains the powerpoint presentation for Data Visualization made by Sharv Dumbre
+IBMHC ppt.pptx - This file contains the powerpoint presentation for the final project.
